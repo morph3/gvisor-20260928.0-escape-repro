@@ -1,0 +1,24 @@
+# throwaway diagnostics & VM-build scaffolding (kept out of git)
+an1.sh
+calibrate.sh
+calibrate2.sh
+correlate.sh
+daemon.json
+e2e-test.sh
+fix_state_imports.py
+fixbuild.sh
+frame.sh
+frame2.sh
+gen_locks.py
+gen_state_marshal.py
+gen_templates.py
+genprotos.sh
+run-daemon.sh
+strace_race.sh
+
+# local artifacts
+payload
+*.o
+*.so
+*.tar
+.build.*/
